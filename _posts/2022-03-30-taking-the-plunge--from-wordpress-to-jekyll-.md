@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Taking The Plunge: From Wordpress to Jekyll
-description: A short post on why I've landed on Jekyll instead of Wordpress.
-date: 2022-03-30 11:30:00
+description: 
+date: 2022-03-26 07:57:00
 image: 
 categories: []
 tags: []
