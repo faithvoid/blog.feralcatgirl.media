@@ -7,9 +7,6 @@ image:
 categories: [Webdev]
 tags: [Webdev]
 ---
-
-# Taking The Plunge: From Wordpress to Jekyll
-
 Hello Netizens! I wanted to make a small post explaining why I've decided to use Jekyll instead of Wordpress for my blog, despite it's features being much more limited in comparison, and talk about my experiences so far.
 
 I used to run a WordPress blog on a self-hosted homelab server a few years ago with a bunch of other websites and video game servers (which started as a simple Raspberry Pi, then evolved into a Asus EeeBox EB1033, then a full-blown HP ProLiant G6 server), and as simple as it was to set up a WordPress blog with the magic of DietPi (a fantastic Ubuntu-based distro that gets a bunch of your favourite programs up and running in no time), I realized that maintaining a webserver can be...a bit of a time and money sink, to say the least. 
