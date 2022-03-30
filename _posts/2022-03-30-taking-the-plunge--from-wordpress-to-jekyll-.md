@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Taking The Plunge: From Wordpress to Jekyll
+title: Taking The Plunge&#58; From Wordpress to Jekyll
 description: 
 date: 2022-03-26 07:57:00
 image: 
-categories: []
-tags: []
+categories: [Webdev]
+tags: [Webdev]
 ---
 
 # Taking The Plunge: From Wordpress to Jekyll
